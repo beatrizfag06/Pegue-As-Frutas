@@ -49,12 +49,6 @@ Pegue_as_Frutas/
 python main.py
 ```
 
-## 🌟 Melhorias Futuras
-
-- Adicionar níveis de dificuldade.
-- Implementar efeitos sonoros.
-- Criar um sistema de ranking para a pontuação.
-
 ## 📈 Objetivo do Trabalho
 
 Este projeto visa aplicar os seguintes conceitos aprendidos em sala de aula:
